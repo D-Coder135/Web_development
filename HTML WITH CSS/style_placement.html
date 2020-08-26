@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>STYLE PLACEMENT</title>
+  <link rel="stylesheet" href="style.css">
+  <style>
+
+    h2 {
+      color: maroon;
+    }
+
+  </style>
+</head>
+<body>
+  <h1>STYLE PLACEMENT</h1>
+  <h2>Subheading 1</h2>
+  <p> Inline CSS has the highest priority, then comes Internal/Embedded followed by External CSS which has the least priority. Multiple style sheets can be defined on one page. If for an HTML tag, styles are defined in multiple style sheets then the below order will be followed.
+      As Inline has the highest priority, any styles that are defined in the internal and external style sheets are overridden by Inline styles.
+      Internal or Embedded stands second in the priority list and overrides the styles in the external style sheet.
+      External style sheets have the least priority. If there are no styles defined either in inline or internal style sheet then external style sheet rules are applied for the HTML tags.</p>
+  <h2>Subheading 2</h2>
+  <p style="text-align: center;">I am Centered!</p>
+
+</body>
+</html>
+
+<!-- Here the style.css is a seperate css file otherthan thi html code which must be present
+in the same directory in which your html code is present. -->
+
+<!-- The style.css file cotains the code as -->
+
+body {
+  background-color: gray;
+  font-size: 130%;
+}
