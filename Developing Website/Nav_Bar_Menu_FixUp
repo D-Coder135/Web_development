@@ -212,7 +212,7 @@ body {
     margin: 0 20px;
     padding: 10px;
     border: 2px solid #fff;
-    background-color: #f6b319;
+    background-color: #f6b319;  
     color: #951c49;
   }
   #xs-deliver {
