@@ -12,3 +12,11 @@ function test1 (a) {
   console.log( a / 5);
 }
 test1();
+
+
+
+// **** Equality
+var x = 4, y = 4;
+if (x == y) {
+  console.log("x is equal to y");
+}
