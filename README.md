@@ -3,34 +3,35 @@
 
 ## Follow the procedure given below to continue with the repo -->
                                             
-###                                         Javascript
+### Javascript
+       ^
+       |
+       |
+       |
+       |
+### Developing Website
 
-                                                 ^
-                                                 |
-                                                 |
-                                                 |
-                                                 |
-###                                     Developing Website
-
-                                                 ^
-                                                 |
-                                                 |
-                                                 |
-                                                 |
-###                                        HTML WITH CSS
+        ^
+        |
+        |
+        |
+        |
+### HTML WITH CSS
                                                  
-                                                 ^
-                                                 |
-                                                 |
-                                                 |
-                                                 |
-###                                          Bootstrap
+        ^
+        |
+        |
+        |
+        |
+### Bootstrap
                                                 
-                                                 ^
-                                                 |
-                                                 |
-                                                 |
-                                                 |
-###                                         HTML Basics      
+        ^
+        |
+        |
+        |
+        |
+### HTML Basics      
+
+                                               
                                                  
                                      
