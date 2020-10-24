@@ -1,2 +1,3 @@
 # Web_development
-Contents related to web development course.
+## Basics of Web Development!
+### HTML, CSS & Javascript
