@@ -4,3 +4,4 @@ function orderChickenWith(sideDish) {
 }
 
 orderChickenWith("noodles");
+orderChickenWith();
