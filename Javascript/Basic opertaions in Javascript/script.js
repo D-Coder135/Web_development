@@ -73,3 +73,7 @@ function b() {
 
 console.log(a());
 console.log(b());
+
+
+
+// For loop
