@@ -63,4 +63,10 @@ function a()
   {
     name: "Devansh"
   };
+}
+
+function b() {
+  return {
+    name: "Devansh"
+  };
 } 
