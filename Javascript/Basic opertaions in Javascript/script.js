@@ -36,3 +36,10 @@ else {
   console
   .log("Strict: x='4' is NOT equal to y=4");
 }
+
+
+
+// **** What are considered as false in Js (all false)
+if ( false || null || undefined || "" || 0 || NaN) {
+  console.log("This line won't execute");
+}
