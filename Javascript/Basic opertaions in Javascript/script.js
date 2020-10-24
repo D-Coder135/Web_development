@@ -46,3 +46,8 @@ if ( false || null || undefined || "" || 0 || NaN) {
 else {
   console.log("All false");
 }
+
+// **** What are considered as true in Js (all true)
+if ( true && "hello" && 1 && -1 && "false") {
+  console.log("All true");
+}
