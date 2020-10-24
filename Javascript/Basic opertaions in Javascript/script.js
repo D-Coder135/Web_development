@@ -69,4 +69,7 @@ function b() {
   return {
     name: "Devansh"
   };
-} 
+}
+
+console.log(a());
+console.log(b());
