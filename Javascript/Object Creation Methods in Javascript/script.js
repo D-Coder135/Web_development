@@ -10,3 +10,4 @@ console.log(company);
 console.log("Company CEO name is: " +company.ceo.firstname);
 
 console.log(company["name"]);
+var stockPropName = "stock of company";
