@@ -2,5 +2,6 @@
 var company = new Object();
 company.name = "Facebook";
 company.ceo = new Object();
-company.ceo.firstname = "Mark";
+company.ceo.firstName = "Mark";
+company.ceo.favColor = "blue";
 console.log(company);
