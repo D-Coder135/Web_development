@@ -23,5 +23,5 @@ console.log(doubleAll(100));
 
 // Passing functions as arguments
 function doOperations(x, operation) {
-  
+  return operation(x);
 }
