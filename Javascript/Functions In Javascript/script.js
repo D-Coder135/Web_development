@@ -20,3 +20,5 @@ console.log(multiplyBy3(10));
 
 var doubleAll = makeMultiplier(2);
 console.log(doubleAll(100));
+
+// Passing functions as arguments
