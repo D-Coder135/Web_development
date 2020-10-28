@@ -23,6 +23,6 @@ var facebook = {
   name: "Facebook",
   ceo: {
     firstname: "Mark",
-    
+    favColor: "blue"
   },
 };
