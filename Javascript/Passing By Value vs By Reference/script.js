@@ -7,4 +7,4 @@
  console.log("b: " + b);
  b = 5;
  console.log("After b update: ");
- 
+ console.log("a: " + a);
