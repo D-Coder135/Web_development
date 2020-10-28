@@ -9,5 +9,7 @@ console.log(multiply.version);
 
 // Function Factory
 function makeMultiplier(multiplier) {
-  var myFunc = function (x) {};
+  var myFunc = function (x) {
+    return multiplier * x;
+  };
 }
