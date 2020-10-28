@@ -15,3 +15,5 @@
  var b = a;
  console.log(a);
  console.log(b);
+ b.x = 5;
+ 
