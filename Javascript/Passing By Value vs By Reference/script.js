@@ -17,3 +17,5 @@
  console.log(b);
  b.x = 5;
  console.log("After b.x update: ");
+ console.log(a);
+ 
