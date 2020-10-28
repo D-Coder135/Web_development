@@ -1,4 +1,4 @@
-// Object creation
+// Normal Object creation
 var company = new Object();
 company.name = "Facebook";
 company.ceo = new Object();
@@ -16,3 +16,6 @@ var stockPropName = "stock of company";
 company[stockPropName] = 110;
 
 console.log("Stock price is: " + company[stockPropName]);
+
+
+// Better Way: Using object literal
