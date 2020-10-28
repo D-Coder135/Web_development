@@ -27,3 +27,5 @@ var facebook = {
   },
   "stock of company": 110
 };
+
+console.log(facebook);
