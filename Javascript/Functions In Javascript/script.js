@@ -17,3 +17,5 @@ function makeMultiplier(multiplier) {
 
 var mutiplyBy3 = makeMultiplier(3);
 console.log(multiplyBy3(10));
+
+var doubleAll = makeMultiplier(2);
