@@ -14,3 +14,5 @@ function makeMultiplier(multiplier) {
   };
   return myFunc;
 }
+
+var mutiplyBy3 = makeMultiplier(3);
