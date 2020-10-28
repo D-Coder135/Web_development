@@ -19,4 +19,6 @@ console.log("Stock price is: " + company[stockPropName]);
 
 
 // Better Way: Using object literal
-var facebook = {};
+var facebook = {
+  name: "Facebook",
+};
