@@ -22,6 +22,8 @@ var doubleAll = makeMultiplier(2);
 console.log(doubleAll(100));
 
 // Passing functions as arguments
-function doOperations(x, operation) {
-  return operation(x);
+function doOperationOn(x, operation) {
+  return operation(x); // Performing the function operation on the value x.
 }
+
+var result = doOperationOn(5, multiplyBy3);
