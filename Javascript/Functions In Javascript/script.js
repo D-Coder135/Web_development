@@ -28,3 +28,4 @@ function doOperationOn(x, operation) {
 
 var result = doOperationOn(5, multiplyBy3);
 console.log(result);
+result = doOperationOn(100, doubleAll);
