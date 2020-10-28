@@ -25,4 +25,5 @@ var facebook = {
     firstname: "Mark",
     favColor: "blue"
   },
+  "stock of company": 110
 };
