@@ -8,3 +8,6 @@ console.log(multiply(4, 5));
 console.log(multiply.version);
 
 // Function Factory
+function makeMultiplier(multiplier) {
+  
+}
