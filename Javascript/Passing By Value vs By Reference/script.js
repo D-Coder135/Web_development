@@ -16,4 +16,4 @@
  console.log(a);
  console.log(b);
  b.x = 5;
- 
+ console.log("After b.x update: ");
