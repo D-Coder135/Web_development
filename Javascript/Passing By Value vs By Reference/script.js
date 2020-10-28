@@ -12,3 +12,4 @@
 
  // Copy By Reference
  var a = { x: 7};
+ var b = a;
