@@ -5,3 +5,4 @@ function multiply(x, y) {
 }
 multiply.version = "v.1.0.0";
 console.log(multiply(4, 5));
+console.log(multiply.version);
