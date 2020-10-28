@@ -29,3 +29,4 @@ var facebook = {
 };
 
 console.log(facebook);
+console.log(facebook.ceo.firstName);
