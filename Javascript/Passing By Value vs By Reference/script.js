@@ -19,3 +19,6 @@
  console.log("After b.x update: ");
  console.log(a);
  console.log(b);
+ // Here on updating the value reffered by object b, the value reffered by
+ // object a also changes as both the objects are reffering the same value.
+ // This is known as Copy By Reference.
