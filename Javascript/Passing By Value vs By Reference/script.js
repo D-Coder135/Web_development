@@ -13,3 +13,5 @@
  // Copy By Reference
  var a = { x: 7};
  var b = a;
+ console.log(a);
+ console.log(b);
