@@ -12,12 +12,13 @@ function Circle (radius) {
 //  console.log(this);
     this.radius = radius;
 
-    this.getArea =
+/*    this.getArea =
     function () {
       return Math.PI * Math.pow(this.radius , 2);
     }; // This property will be created separately, everytime a new object of
-      // the function Circle will be created which is not required.
+      // the function Circle will be created which is not required. */
 }
+// Alternate method for doing so is using Prototype
 
 var myCircle = new Circle(10);
 // console.log(myCircle);
