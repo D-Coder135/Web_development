@@ -11,6 +11,11 @@ console.log(window.myName);
 function Circle (radius) {
 //  console.log(this);
     this.radius = radius;
+
+    this.getArea =
+    function () {
+      return Math.PI * Math.pow(this.radius , 2);
+    };
 }
 
 var myCircle = new Circle(10);
