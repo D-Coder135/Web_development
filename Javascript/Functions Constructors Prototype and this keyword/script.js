@@ -29,3 +29,6 @@ var myCircle = new Circle(10);
 
 var myOtherCircle = new Circle(20);
 console.log(myOtherCircle);
+// Hence using prototype is considered as most affective because here for both
+// objects myCircle and myOtherCircle the getArea method is not defined
+// separately.
