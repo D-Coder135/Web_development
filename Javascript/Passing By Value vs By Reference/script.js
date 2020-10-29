@@ -38,4 +38,5 @@
  }
 
  var value = 7;
+ changePrimitive(value);
  
