@@ -11,3 +11,5 @@ console.log(window.myName);
 function Circle (radius) {
   console.log(this);
 }
+
+var myCircle = new Circle(10);
