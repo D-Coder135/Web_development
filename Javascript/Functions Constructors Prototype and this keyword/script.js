@@ -1,4 +1,4 @@
 // Function Constructors
-function Circle (radius) {
+function test () {
   console.log(this);
 }
