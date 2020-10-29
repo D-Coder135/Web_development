@@ -1,4 +1,4 @@
-// Function Constructors
+// detailed view of this keyword
 function test () {
   console.log(this);
   this.myName = "Devansh";
