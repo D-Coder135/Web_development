@@ -19,4 +19,5 @@ function Circle (radius) {
 }
 
 var myCircle = new Circle(10);
-console.log(myCircle);
+// console.log(myCircle);
+  console.log(myCircle.getArea());
