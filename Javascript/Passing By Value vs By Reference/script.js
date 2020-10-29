@@ -56,3 +56,4 @@
 
  value = { x : 7 };
  changeObject(value);
+ console.log("After changeObject, Original value: ");
