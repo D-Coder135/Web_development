@@ -45,5 +45,6 @@
 
  // Pass By Reference
  function changeObject(objValue) {
-   
+   console.log("in changeObject...");
+   console.log("before: ");
  }
