@@ -36,3 +36,6 @@
    console.log("after: ");
    console.log(primValue);
  }
+
+ var value = 7;
+ 
