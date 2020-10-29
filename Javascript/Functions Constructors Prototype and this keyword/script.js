@@ -15,7 +15,8 @@ function Circle (radius) {
     this.getArea =
     function () {
       return Math.PI * Math.pow(this.radius , 2);
-    };
+    }; // This property will be created separately, everytime a new object of
+      // the function Circle will be created which is not required.
 }
 
 var myCircle = new Circle(10);
