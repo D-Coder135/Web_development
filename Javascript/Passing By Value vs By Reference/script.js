@@ -55,4 +55,4 @@
  }
 
  value = { x : 7 };
- 
+ changeObject(value);
