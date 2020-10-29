@@ -19,7 +19,10 @@ function Circle (radius) {
       // the function Circle will be created which is not required. */
 }
 // Alternate method for doing so is using Prototype
-
+Circle.prototype.getArea =
+  function () {
+    return Math.PI * Math.pow(this.radius , 2);
+  }
 var myCircle = new Circle(10);
 // console.log(myCircle);
   console.log(myCircle.getArea());
