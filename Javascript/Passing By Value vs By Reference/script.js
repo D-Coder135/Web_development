@@ -47,4 +47,5 @@
  function changeObject(objValue) {
    console.log("in changeObject...");
    console.log("before: ");
+   console.log(objValue);
  }
