@@ -49,7 +49,7 @@
    console.log("before: ");
    console.log(objValue);
 
-   objValue = 5;
+   objValue.x = 5;
    console.log("after: ");
    console.log(objValue);
  }
