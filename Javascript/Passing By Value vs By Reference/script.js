@@ -51,5 +51,5 @@
 
    objValue = 5;
    console.log("after: ");
-   
+   console.log(objValue);
  }
