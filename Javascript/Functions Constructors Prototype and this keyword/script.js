@@ -26,3 +26,5 @@ Circle.prototype.getArea =
 var myCircle = new Circle(10);
 // console.log(myCircle);
   console.log(myCircle.getArea());
+
+var myOtherCircle = new Circle(20);
