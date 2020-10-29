@@ -31,4 +31,7 @@
    console.log("in change Primitive...");
    console.log("before: ");
    console.log(primValue);
+
+   primValue = 5;
+   
  }
