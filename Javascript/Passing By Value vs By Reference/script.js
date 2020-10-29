@@ -58,3 +58,7 @@
  changeObject(value);
  console.log("After changeObject, Original value: ");
  console.log(value);
+
+ // Here also just like copy by reference, original value changes on changing
+ // the same value for some other field from inside a function.
+ // Hence this is known as Pass By Reference. 
