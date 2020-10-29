@@ -4,3 +4,4 @@ function test () {
   this.myName = "Devansh";
 }
 test();
+console.log(window.myName);
