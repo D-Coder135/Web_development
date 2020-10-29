@@ -53,3 +53,6 @@
    console.log("after: ");
    console.log(objValue);
  }
+
+ value = { x : 7 };
+ 
