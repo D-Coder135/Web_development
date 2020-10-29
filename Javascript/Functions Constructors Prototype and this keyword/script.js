@@ -9,7 +9,8 @@ console.log(window.myName);
 
 // Function Constructors
 function Circle (radius) {
-  console.log(this);
+//  console.log(this);
+    this.radius = radius;
 }
 
 var myCircle = new Circle(10);
