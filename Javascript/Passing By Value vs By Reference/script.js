@@ -34,4 +34,5 @@
 
    primValue = 5;
    console.log("after: ");
+   console.log(primValue);
  }
