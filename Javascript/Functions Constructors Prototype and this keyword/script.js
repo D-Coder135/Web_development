@@ -5,3 +5,6 @@ function test () {
 }
 test();
 console.log(window.myName);
+
+
+// Function Constructors
