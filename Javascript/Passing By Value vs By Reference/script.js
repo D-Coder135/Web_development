@@ -30,5 +30,5 @@
  function changePrimitive(primValue) {
    console.log("in change Primitive...");
    console.log("before: ");
-   
+   console.log(primValue);
  }
