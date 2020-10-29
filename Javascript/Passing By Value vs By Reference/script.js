@@ -28,5 +28,7 @@
 
  // Pass By Value
  function changePrimitive(primValue) {
+   console.log("in change Primitive...");
+   console.log("before: ");
    
  }
