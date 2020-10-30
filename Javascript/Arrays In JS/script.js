@@ -11,3 +11,4 @@ array[3] = { Course: " HTML, CSS & JS"};
 
 console.log(array);
 console.log(array[1]);
+array[2](array[0]);
