@@ -6,3 +6,5 @@ var literalCircle = {
     console.log(this);
   };
 };
+
+literalCircle.getArea();
