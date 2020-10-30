@@ -10,4 +10,4 @@ var literalCircle = {
   };
 };
 
-literalCircle.getArea();
+console.log(literalCircle.getArea());
