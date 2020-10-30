@@ -9,8 +9,9 @@ var literalCircle = {
     // with the radius property.
 
     var increaseRadius = function () {
-      
+      self.radius = 20;
     };
+    
     return Math.PI * Math.pow(this.radius, 2);
   };
 };
