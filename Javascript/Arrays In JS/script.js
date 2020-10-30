@@ -18,3 +18,4 @@ array[2](array[0]); // call the function initialized at an index of the array
 
 
 // Array creation (Short Hand Notation)
+var names = ["Devansh", "Divyansh", "Devesh"];
