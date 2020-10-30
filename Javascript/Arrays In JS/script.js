@@ -8,3 +8,5 @@ array[2] = function (name) {
   console.log("Hello " + name);
 };
 array[3] = { Course: " HTML, CSS & JS"};
+
+console.log(array);
