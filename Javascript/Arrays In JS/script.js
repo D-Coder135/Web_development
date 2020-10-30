@@ -10,3 +10,4 @@ array[2] = function (name) {
 array[3] = { Course: " HTML, CSS & JS"};
 
 console.log(array);
+console.log(array[1]);
