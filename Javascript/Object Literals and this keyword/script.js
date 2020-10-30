@@ -13,6 +13,9 @@ var literalCircle = {
     };
     increaseRadius();
     console.log(this.radius);
+    // In this way we can update a property inside a object literal by using
+    // this keyword.
+    
     return Math.PI * Math.pow(this.radius, 2);
   };
 };
