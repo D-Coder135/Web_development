@@ -2,5 +2,7 @@
 var literalCircle = {
   radius: 10,
 
-  getArea:
+  getArea: function () {
+
+  };
 };
