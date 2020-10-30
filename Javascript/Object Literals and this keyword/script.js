@@ -12,7 +12,7 @@ var literalCircle = {
       self.radius = 20;
     };
     increaseRadius();
-    
+    console.log(this.radius);
     return Math.PI * Math.pow(this.radius, 2);
   };
 };
