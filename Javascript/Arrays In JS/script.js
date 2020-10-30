@@ -22,3 +22,6 @@ var names = ["Devansh", "Divyansh", "Devesh"];
 console.log(names);
 
 // Using for loop with arrays.
+for (var i = 0; i < names.length; i++) {
+  
+}
