@@ -1,9 +1,9 @@
 // Clousers In JS
-function makeMultiplier (multipier) {
+function makeMultiplier (multiplier) {
 
   return (
     function (x) {
-      return multipier * x;
+      return multiplier * x;
     }
   );
 }
