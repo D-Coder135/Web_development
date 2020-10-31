@@ -37,3 +37,9 @@ for (var i = 0; i < names.length; i++) {
 // Another for loop used with the arrays in JS(Enhanced for loop)
 
 var nameTitles = ["Shukla", "Dixit", "Singh"];
+
+var myObj = {
+  name: "Devansh",
+  title: "Shukla",
+  speciality: "Software Engineer"
+};
