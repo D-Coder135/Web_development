@@ -54,3 +54,7 @@ for (var name in nameTitles) {
 }
 
 nameTitles.greeting = "Hi!";
+
+for (var name in nameTitles) {
+  
+}
