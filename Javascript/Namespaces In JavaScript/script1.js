@@ -7,5 +7,5 @@ function sayHello() {
 var devanshGreeter = {};
 devanshGreeter.name = "Devansh";
 devanshGreeter.sayHello = function () {
-
+  console.log("Hello " + devanshGreeter.name);
 }
