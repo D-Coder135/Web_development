@@ -50,5 +50,5 @@ for (var prop in myObj) {
 
 // Now, using the for each loop on the array nameTitles.
 for (var name in nameTitles) {
-  
+  console.log("Hello " + nameTitles[name]);
 }
