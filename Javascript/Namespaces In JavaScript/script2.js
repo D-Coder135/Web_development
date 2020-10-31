@@ -22,4 +22,5 @@ omiGreeter.sayHi = function () {
   omiGreeter.sayHi = function () {
     console.log(greeting + omiGreeter.name);
   }
-}
+  window.omiGreeter = omiGreeter;
+}(window);
