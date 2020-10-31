@@ -7,3 +7,5 @@ function makeMultiplier (multiplier) {
     }
   );
 }
+
+var doubleAll = makeMultiplier(2);
