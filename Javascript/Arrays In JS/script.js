@@ -43,3 +43,6 @@ var myObj = {
   title: "Shukla",
   speciality: "Software Engineer"
 };
+for (var prop in myObj) {
+  
+}
