@@ -56,5 +56,5 @@ for (var name in nameTitles) {
 nameTitles.greeting = "Hi!";
 
 for (var name in nameTitles) {
-  
+  console.log("Hello " + nameTitles[name]);
 }
