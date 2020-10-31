@@ -16,5 +16,10 @@ omiGreeter.sayHi = function () {
 
 // IIFE
 (function (window)) {
-  
+  var omiGreeter = {};
+  omiGreeter.name = "Omi";
+  var greeting = "Hi ";
+  omiGreeter.sayHi = function () {
+    console.log(greeting + omiGreeter.name);
+  }
 }
