@@ -52,3 +52,5 @@ for (var prop in myObj) {
 for (var name in nameTitles) {
   console.log("Hello " + nameTitles[name]);
 }
+
+nameTitles.greeting = "Hi!";
