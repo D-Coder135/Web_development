@@ -18,5 +18,11 @@ devanshGreeter.sayHello = function () {
 
 // IIFE
 (function (window)) {
-  
-}
+  var devanshGreeter = {};
+  devanshGreeter.name = "Devansh";
+  var greeting = "Hello ";
+  devanshGreeter.sayHello = function () {
+    console.log(greeting + devanshGreeter.name);
+  }
+  window.devanshGreeter = devanshGreeter;
+})(window);
