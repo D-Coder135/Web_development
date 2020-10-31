@@ -16,3 +16,6 @@ take place. */
 
 /* Therefore, to overcome or remove this error a new concept comes in context
 known as "Imediately Invoked Function Expression (IIFE)". */
+
+/* After adding contents of IIFE in script1.js and script2.js, the error is
+automatically resolved and we get the desired output on the console. */
