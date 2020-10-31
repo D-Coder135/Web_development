@@ -9,3 +9,4 @@ function makeMultiplier (multiplier) {
 }
 
 var doubleAll = makeMultiplier(2);
+console.log(doubleAll(10));
