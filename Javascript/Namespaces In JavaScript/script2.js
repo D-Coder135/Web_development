@@ -7,6 +7,7 @@ function sayHi() {
 
 var omiGreeter = {};
 omiGreeter.name = "Omi";
+var greeting = "Hi ";
 omiGreeter.sayHi = function () {
   console.log("Hi " + omiGreeter.name);
 }
