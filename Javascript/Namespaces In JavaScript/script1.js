@@ -4,9 +4,19 @@ function sayHello() {
 } */
 
 
+/*
+
 var devanshGreeter = {};
 devanshGreeter.name = "Devansh";
 var greeting = "Hello ";
 devanshGreeter.sayHello = function () {
   console.log(greeting + devanshGreeter.name);
+}
+
+*/
+
+
+// IIFE
+(function (window)) {
+  
 }
