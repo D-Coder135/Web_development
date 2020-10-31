@@ -4,6 +4,8 @@ function makeMultiplier (multiplier) {
   function random() {
     console.log("Multiplier is: " + multiplier);
   }
+  random();
+  
   return (
     function (x) {
       return multiplier * x;
