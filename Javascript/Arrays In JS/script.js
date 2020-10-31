@@ -58,3 +58,5 @@ nameTitles.greeting = "Hi!";
 for (var name in nameTitles) {
   console.log("Hello " + nameTitles[name]);
 }
+
+// Note : In JS, arrays are nothing more than object.
