@@ -8,5 +8,5 @@ var devanshGreeter = {};
 devanshGreeter.name = "Devansh";
 var greeting = "Hello ";
 devanshGreeter.sayHello = function () {
-  console.log("Hello " + devanshGreeter.name);
+  console.log(greeting + devanshGreeter.name);
 }
