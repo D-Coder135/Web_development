@@ -18,4 +18,6 @@ console.log(doubleAll(10));
  // JavaScript Engine preserves outer lexical enviorement for the funtion which
 // is returned inside another function.
 // Hence doubleAll has its own execution enviorement therefore its has the
-// access of the multiplier parameter of the funtion makeMultiplier,
+// access of the multiplier parameter of the funtion makeMultiplier.
+
+// This is what is known Clousers in JavaScript.
