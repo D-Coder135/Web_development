@@ -43,6 +43,7 @@ var myObj = {
   title: "Shukla",
   speciality: "Software Engineer"
 };
+// Firstly, showing how to use for each (Enhanced for loop) on Object literals.
 for (var prop in myObj) {
   console.log(prop + " : " + myObj[prop]);
 }
