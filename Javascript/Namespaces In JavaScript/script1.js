@@ -5,3 +5,4 @@ function sayHello() {
 
 
 var devanshGreeter = {};
+devanshGreeter.name = "Devansh";
