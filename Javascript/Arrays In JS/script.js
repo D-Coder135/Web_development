@@ -31,3 +31,7 @@ names[100] = "Kimiko";
 for (var i = 0; i < names.length; i++) {
   console.log("Hello " + names[i]);
 }
+
+
+
+// Another for loop used with the arrays in JS(Enhanced for loop)
