@@ -8,5 +8,5 @@ function sayHi() {
 var omiGreeter = {};
 omiGreeter.name = "Omi";
 omiGreeter.sayHi = function () {
-
+  console.log("Hi " + omiGreeter.name);
 }
