@@ -1,4 +1,8 @@
-var name = "Omi";
+/* var name = "Omi";
 function sayHi() {
   console.log("Hi " + name);
-}
+} */
+
+
+
+var omiGreeter = {};
