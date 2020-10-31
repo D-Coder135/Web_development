@@ -44,5 +44,5 @@ var myObj = {
   speciality: "Software Engineer"
 };
 for (var prop in myObj) {
-  
+  console.log(prop + " : " + myObj[prop]);
 }
