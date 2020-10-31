@@ -47,3 +47,8 @@ var myObj = {
 for (var prop in myObj) {
   console.log(prop + " : " + myObj[prop]);
 }
+
+// Now, using the for each loop on the array nameTitles.
+for (var name in nameTitles) {
+  
+}
