@@ -11,5 +11,5 @@ it can be used as a global object inside a JavaScript file. */
 
 
 function sayHello() {
-  document.getElementById("name").value;
+  var name = document.getElementById("name").value;
 }
