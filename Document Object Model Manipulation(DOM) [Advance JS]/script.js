@@ -29,6 +29,8 @@ function sayHello() {
     document.getElementById("title").textContent.This is an alternate and more
     preferable method. Because it doesn't just select item by its id, one can
     pass anything apart from id. */
+
+    title += "Created By " + name + "!";
   }
 
 }
