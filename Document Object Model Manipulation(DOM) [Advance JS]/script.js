@@ -20,6 +20,6 @@ function sayHello() {
      that the message content should get printed in form of heading h2. */
 
   // Therefore, in order to do so, we can use correct method i.e -->
-  
+  document.getElementById("content").innerHTML = message;
 
 }
