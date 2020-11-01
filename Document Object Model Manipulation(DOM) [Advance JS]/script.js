@@ -21,5 +21,7 @@ function sayHello() {
 
   // Therefore, in order to do so, we can use correct method i.e -->
   document.getElementById("content").innerHTML = message;
+  /* Instead of using .textContent we can use .innerHTML so that the JS engine
+  considers the value in form of HTML code. */
 
 }
