@@ -14,10 +14,10 @@ function sayHello() {
   var name = document.getElementById("name").value;
   var message = "<h2>Hello " + name + "!</h2>";
 
-  document.getElementById("content").textContent = message;
+  // document.getElementById("content").textContent = message;
   /* Problem will be h2 tag inside message variable will be considered as text
      content due to .textContent property which we don't want. What we want is
      that the message content should get printed in form of heading h2. */
 
-     
+
 }
