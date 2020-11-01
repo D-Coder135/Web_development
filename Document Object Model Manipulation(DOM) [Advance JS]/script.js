@@ -25,7 +25,10 @@ function sayHello() {
   considers the value in form of HTML code. */
 
   if (name === "Devansh") {
-    var title = document.querySelector("#title").textContent;
+    var title = document.querySelector("#title").textContent; /* Inspite of Using
+    document.getElementById("title").textContent.This is an alternate and more
+    preferable method. Because it doesn't just select item by its id, one can
+    pass anything apart from id. */
   }
 
 }
