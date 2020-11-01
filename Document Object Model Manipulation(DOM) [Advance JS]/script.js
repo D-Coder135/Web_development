@@ -12,4 +12,5 @@ it can be used as a global object inside a JavaScript file. */
 
 function sayHello() {
   var name = document.getElementById("name").value;
+  var message = "<h2>Hello " + name + "!</h2>";
 }
