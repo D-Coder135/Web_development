@@ -25,7 +25,7 @@ function sayHello() {
   considers the value in form of HTML code. */
 
   if (name === "Devansh") {
-    
+    document.querySelector("#title").textContent;
   }
 
 }
