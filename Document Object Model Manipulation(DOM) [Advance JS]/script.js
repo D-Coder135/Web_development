@@ -32,6 +32,9 @@ function sayHello() {
 
     title += "Created By " + name + "!";
     document.querySelector("h1").textContent = title;
+    /* Advantage of using .querySelector is that we can pass any identity inside
+    it, i.e. either any CSS tag or any html tag. Therefore it is more preferable.
+    */
   }
 
 }
