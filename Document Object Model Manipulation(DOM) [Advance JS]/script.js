@@ -19,5 +19,7 @@ function sayHello() {
      content due to .textContent property which we don't want. What we want is
      that the message content should get printed in form of heading h2. */
 
+  // Therefore, in order to do so, we can use correct method i.e -->
+  
 
 }
