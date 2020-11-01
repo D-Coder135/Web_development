@@ -24,4 +24,8 @@ function sayHello() {
   /* Instead of using .textContent we can use .innerHTML so that the JS engine
   considers the value in form of HTML code. */
 
+  if (name === "Devansh") {
+    
+  }
+
 }
