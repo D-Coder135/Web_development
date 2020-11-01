@@ -31,6 +31,7 @@ function sayHello() {
     pass anything apart from id. */
 
     title += "Created By " + name + "!";
+    document.querySelector("h1").textContent = title;
   }
 
 }
