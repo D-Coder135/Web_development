@@ -35,6 +35,8 @@ document.addEventListener("DOMContentLoaded",
         if(event.shiftkey === true) {
         console.log("x: " + event.clientX);
         console.log("y: " + event.clientY);
+        /* Will log the output only when one will hover the mouse holding the
+           shift key. */
       }
       }
   );
