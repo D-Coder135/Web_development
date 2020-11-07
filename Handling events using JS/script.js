@@ -12,5 +12,6 @@ function sayHello() {
     title += "Created By " + name + "!";
     document.querySelector("h1").textContent = title;
   }
-
 }
+
+// Unobstructive event binding
