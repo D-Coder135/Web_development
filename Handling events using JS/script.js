@@ -15,3 +15,4 @@ function sayHello() {
 }
 
 // Unobstructive event binding
+document.querySelector("button").addEventListener("click", sayHello);
