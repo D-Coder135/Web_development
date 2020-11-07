@@ -31,7 +31,9 @@ document.addEventListener("DOMContentLoaded",
 
     document.querySelector("body")
     .addEventListener("mousemove",
-      
+      function (event) {
+        
+      }
   );
   }
 );
