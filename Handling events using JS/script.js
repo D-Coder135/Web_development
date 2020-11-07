@@ -1,7 +1,7 @@
 // Event Handling
 
 function sayHello() {
-  console.log(this);
+  this.textContent = "Said it!";
   var name = document.getElementById("name").value;
   var message = "<h2>Hello " + name + "!</h2>";
 
