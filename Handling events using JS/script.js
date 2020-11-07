@@ -4,5 +4,7 @@
 image or extra part is loaded. */
 
 document.addEventListener("DOMContentLoaded",
-
+  function (event) {
+    
+  }
 );
