@@ -33,3 +33,7 @@ document.addEventListener("DOMContentLoaded",
 
   }
 );
+
+/* Hence handling events like this have lots of advanteges and makes our html
+code clean and simple. And also we can perform many tasks without adding
+additional eventHandlers. */
