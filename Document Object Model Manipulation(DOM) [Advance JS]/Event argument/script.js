@@ -32,7 +32,8 @@ document.addEventListener("DOMContentLoaded",
     document.querySelector("body")
     .addEventListener("mousemove",
       function (event) {
-        
+        console.log("x: " + event.clientX);
+        console.log("y: " + event.clientY);
       }
   );
   }
