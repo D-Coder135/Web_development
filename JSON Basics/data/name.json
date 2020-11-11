@@ -1,6 +1,8 @@
+// JSON stands for ---> JavaScript Object Notation.
+
 {
   "firstName": "Devansh",
   "lastName": "Shukla",
   "likesChineseFood": true,
-  "numberOfDisplays": 2 
+  "numberOfDisplays": 2
 }
