@@ -1,3 +1,5 @@
+// AJAX stands for  --> Asynchronous JavaScript and XML.
+
 (function (global) {
 
 // Set up a namespace for our utility
