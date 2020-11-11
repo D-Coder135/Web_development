@@ -3,7 +3,18 @@
 
 ## Follow the procedure given below to continue with the repo -->
 
-
+### JSON Basics
+       ^
+       |
+       |
+       |
+       |
+### AJAX Basics
+       ^
+       |
+       |
+       |
+       |
 ### Data Object Model Manipulation (DOM) [Advance JS]
        ^
        |
